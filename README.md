@@ -11,13 +11,14 @@
 `npm run cy:open`
 #### Após rodar esse comando deverá aparecer a tela abaixo:
 ![Screenshot](tela-inicial-cypress.png)
+
 Clique no teste cadastro_usuario.feature
 
 ### Após rodar os teste com sucesso deverá aparecer a tela abaixo:
 ![Screenshot](tela-após-testes.png)
 
 ### Executar o projeto para acessar o dashboard através da URL gerada:
-`npm run cypress run dash`
+`npm run cy:run:dash`
 
 ![Screenshot](url-gerada.png)
 
