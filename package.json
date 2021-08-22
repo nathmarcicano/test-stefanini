@@ -1,0 +1,20 @@
+{
+  "name": "test-stefanini",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:run:dash": "npx cypress run --record --key 9cfbc9b3-8fed-4965-9bb3-3a2a5abe2eb6"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "8.3.0",
+    "cypress-cucumber-preprocessor": "4.2.0"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  }
+}

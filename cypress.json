@@ -1,0 +1,5 @@
+{
+  "testFiles": "**/*.feature",
+  "baseUrl": "http://prova.stefanini-jgr.com.br/teste/qa/",
+  "projectId": "r6jxtc"
+}
