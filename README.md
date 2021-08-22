@@ -18,6 +18,7 @@ Clique no teste cadastro_usuario.feature
 
 ### Executar o projeto para acessar o dashboard através da URL gerada:
 `npm run cypress run dash`
+
 ![Screenshot](url-gerada.png)
 
 #### Copiar URL gerada e realizar login através da tela abaixo:
