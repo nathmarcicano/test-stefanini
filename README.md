@@ -4,11 +4,11 @@
 
 ### Executar o projeto no terminal:
 
-`npx run test`
+`npm run test`
 
 ### Executar o projeto no navegador do cypress:
 
-`npx run cy:open`
+`npm run cy:open`
 #### Após rodar esse comando deverá aparecer a tela abaixo:
 ![Screenshot](tela-inicial-cypress.png)
 Clique no teste cadastro_usuario.feature
@@ -17,7 +17,7 @@ Clique no teste cadastro_usuario.feature
 ![Screenshot](tela-após-testes.png)
 
 ### Executar o projeto para acessar o dashboard através da URL gerada:
-`npx run cypress run dash`
+`npm run cypress run dash`
 ![Screenshot](url-gerada.png)
 
 #### Copiar URL gerada e realizar login através da tela abaixo:
