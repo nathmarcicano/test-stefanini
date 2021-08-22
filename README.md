@@ -25,9 +25,11 @@ Clique no teste cadastro_usuario.feature
 #### Copiar URL gerada e realizar login através da tela abaixo:
 ![Screenshot](tela-login-para-acessar-dash.png)
 
+Escolher uma das opções para realizar o login.
+
 #### Dashboard:
 ![Screenshot](tela-dashboard-logada.png)
-Tela do dashboard apresenta uma visão geral dos testes (via html), tempo de execução da feature e etc
+Tela do dashboard apresenta uma visão geral dos testes, tempo de execução da feature e etc
 
 #### Aba Test Results:
 ![Screenshot](resultado-teste.png)
